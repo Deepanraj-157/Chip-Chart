@@ -1,23 +1,18 @@
-# <Your product name>
-
-> Fill this top section from your Examate project card on Day 1. Replace every line in angle brackets.
+# chip chart
 
 ## Problem
-<3–5 sentences: who struggles with what today, and what your product changes.>
+Engineers pick between several Wi-Fi/Bluetooth chips and must read 700-page reference manuals and long datasheet tables to estimate current draw, battery life and pin limits. LLM chatbots often misread table values or do the arithmetic wrong, which leads to wrong battery sizing.
 
 ## Who it is for
-<One or two real user types, for example "compliance officer at a gold-loan NBFC in Coimbatore".>
+OneHardware design engineer at a Coimbatore IoT product design house  or two real user types, for example "compliance officer at a gold-loan NBFC in Coimbatore
 
 ## Signature feature
-<One sentence: the feature only your product has.>
+Battery-life calculator: enter a duty cycle and get average current and days of battery, with each number linked to its datasheet table and page.
 
 ## Hardest problem (my interview story)
-<In your own words, from your project card.>
-
+Tables to numbers computed with code. Electrical-characteristics tables are extracted into typed rows (parameter, condition, min/typ/max, unit), and a Python calculator computes battery life or total current. The LLM only picks rows and explains; measured numeric accuracy is reported on 60 hand-checked calculations.
 ## Dataset
-| Source | Link | Documents | Pages | Licence / terms |
-|---|---|---|---|---|
-| <name> | <url> | <n> | <n> | <licence> |
+
 
 ## 10 real questions
 See [docs/QUESTIONS.md](docs/QUESTIONS.md).
@@ -32,4 +27,4 @@ curl localhost:8000/health
 ```
 
 ## Live link
-<Added in Week 2>
+
