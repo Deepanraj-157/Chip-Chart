@@ -1,0 +1,10 @@
+file,relative_path,pages,bytes,sha256,duplicate,status,error
+esp32-mini-1_datasheet_en.pdf,data\raw\esp32\esp32-mini-1_datasheet_en.pdf,52,1115857,a1a8d1c571ff339884d910035a193d1a6ca5c066cfec6fee0565064e51570292,False,OK,
+esp32_datasheet_en.pdf,data\raw\esp32\esp32_datasheet_en.pdf,78,989523,a7917e6b47528c9dcab06837a49d452e582751335797db879f1cf2d17cd29adf,False,OK,
+ESP32_Technical_Reference_Manual_en.pdf,data\raw\esp32\ESP32_Technical_Reference_Manual_en.pdf,791,10193172,1007b90e6fafc16541d693d7444b63e1c5b01e46e60cce9b6810e02340a64b82,False,OK,
+esp32-c3_datasheet_en.pdf,data\raw\esp32-c3\esp32-c3_datasheet_en.pdf,76,900158,833fc000b4b3c3d39c496fcbd597fed5806956503ce7390b19cc8ae82f19f968,False,OK,
+esp32-c5_datasheet_en.pdf,data\raw\esp32-c5\esp32-c5_datasheet_en.pdf,96,839555,e3cb7ad57b6fdf165ded30bdb75b4972c92fbe0a9159666eb553999032f1dc22,False,OK,
+esp32-c6_datasheet_en.pdf,data\raw\esp32-c6\esp32-c6_datasheet_en.pdf,86,975625,372a5b42b2900c83ef4309149c8835e9ae2d1be19244995bf2fb83af4dc5edf1,False,OK,
+esp32-h2_datasheet_en.pdf,data\raw\esp32-h2\esp32-h2_datasheet_en.pdf,69,784135,2cb42839833eac06356fb197492b4ba42b85149dc0f3633467fab1c7b26eb243,False,OK,
+esp32-s2_datasheet_en.pdf,data\raw\esp32-s2\esp32-s2_datasheet_en.pdf,65,838510,7c0c54f11e79cc77b09ae070221f056e2c21a3746a8f3a23a0371c4efcf8e02d,False,OK,
+esp32-s3_datasheet_en.pdf,data\raw\esp32-s3\esp32-s3_datasheet_en.pdf,87,1098115,2d5a7cb7fd559d8d972bd88db32669c0196d23f22d7afaafb0f63d099b589a3f,False,OK,
