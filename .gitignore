@@ -1,18 +1,11 @@
-
-# Python environment
-venv/
+.env
 .venv/
 __pycache__/
-*.py[cod]
-
-# Secrets
-.env
-.env.*
-
-# Raw research dataset
+*.pyc
+.pytest_cache/
+.ruff_cache/
+logs/
 data/raw/
-
-# Keep the dataset manifest and documentation
-!data/manifest.csv
-!data/sample/
-!data/sample/**
+*.sqlite
+.DS_Store
+venv

@@ -1,1 +1,17 @@
 https://www.espressif.com/en/support/documents/technical-documents
+//esp32
+datasheet-https://documentation.espressif.com/esp32_datasheet_en.html
+//esp32-c3
+https://documentation.espressif.com/esp32-c3_datasheet_en.html
+//esp32-c6
+https://documentation.espressif.com/esp32-c6_datasheet_en.html
+//esp32-c5
+https://documentation.espressif.com/esp32-c5_datasheet_en.html
+//esp32-h2
+https://documentation.espressif.com/esp32-h2_datasheet_en.html
+//ESP32-MINI-1 & ESP32-MINI-1U Datasheet
+https://documentation.espressif.com/esp32-mini-1_datasheet_en.html
+//esp32-s2
+https://documentation.espressif.com/esp32-s2_datasheet_en.html
+//esp32-s3
+https://documentation.espressif.com/esp32-s3_datasheet_en.html
